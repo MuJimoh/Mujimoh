@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hi, I'm Opeyemi 👋  
+### Data Analyst | SQL | Python | Power BI | Excel
+
+## 📊 About Me
+I am a data analyst passionate about turning raw data into meaningful insights.
+
+## 🛠 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL, MySQL)
+- Power BI | Tableau
+- Excel (Pivot Tables, Power Query)
+
+## 📂 Featured Projects
+### 1️⃣ Sales Data Analysis
+- Cleaned and analyzed sales data using Python  
+- Built visualizations to identify trends  
+➡️ [View Project](link)
+
+### 2️⃣ Customer Segmentation
+- Used clustering to group customers  
+➡️ [View Project](link)
+
+### 3️⃣ COVID-19 Dashboard
+- Interactive dashboard using Power BI  
+➡️ [View Project](link)
+
+## 📬 Contact
+📧 horpeyemi2010@gmail.com  
+🔗 LinkedIn
+
 
 <!--
 **MuJimoh/Mujimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
