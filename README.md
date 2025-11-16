@@ -11,18 +11,12 @@ I am a data analyst passionate about turning raw data into meaningful insights.
 - Excel (Pivot Tables, Power Query)
 
 ## 📂 Featured Projects
-### 1️⃣ Sales Data Analysis
-- Cleaned and analyzed sales data using Python  
+### 1️⃣ Loan Default Data Analysis
+- Cleaned and analyzed loan default data using excel 
 - Built visualizations to identify trends  
 ➡️ [View Project](link)
 
-### 2️⃣ Customer Segmentation
-- Used clustering to group customers  
-➡️ [View Project](link)
 
-### 3️⃣ COVID-19 Dashboard
-- Interactive dashboard using Power BI  
-➡️ [View Project](link)
 
 ## 📬 Contact
 📧 horpeyemi2010@gmail.com  
