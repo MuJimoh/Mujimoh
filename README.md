@@ -14,7 +14,7 @@ I am a data analyst passionate about turning raw data into meaningful insights.
 ### 1️⃣ Loan Default Data Analysis
 - Cleaned and analyzed loan default data using excel 
 - Built visualizations to identify trends  
-➡️ [View Project](link)
+➡️ [View Project](https://github.com/MuJimoh/MusefiuJimoh)
 
 
 
