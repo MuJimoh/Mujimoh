@@ -11,6 +11,10 @@ I am a data analyst passionate about turning raw data into meaningful insights.
 - Excel (Pivot Tables, Power Query)
 
 ## 📂 Featured Projects
+### 1️⃣ Data Cleaning
+- Cleaned a loan application data using excel 
+- Using IQR,Mean,Median,STDv formulas  
+➡️ [View Project](https://github.com/MuJimoh/MusefiuJimoh)
 ### 1️⃣ Loan Default Data Analysis
 - Cleaned and analyzed loan default data using excel 
 - Built visualizations to identify trends  
